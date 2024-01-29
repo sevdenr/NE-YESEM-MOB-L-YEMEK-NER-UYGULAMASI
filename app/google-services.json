@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590755619285",
+    "project_id": "neyesem-5b279",
+    "storage_bucket": "neyesem-5b279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590755619285:android:6e8274c42e3ec57b889d5c",
+        "android_client_info": {
+          "package_name": "com.example.tasarimcalismasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCYGev9LyWxNT8tcSVo7G7jzRttextUJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
